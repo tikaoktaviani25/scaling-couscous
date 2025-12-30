@@ -1,0 +1,5 @@
+{
+  "name": "CryptoBrain AI Core",
+  "description": "A centralized AI command center managing 4 crypto exchanges with predictive trading strategies and Telegram-style logging.",
+  "requestFramePermissions": []
+}
